@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "sourceMap": true,
+        "declaration": true,
+        "module": "es6",
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
+
+
+ 
